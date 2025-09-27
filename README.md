@@ -168,7 +168,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ##  Support
 
-If you have any questions or need help, please open an issue or contact [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or need help, please open an issue or contact (mailto:tarakreddy.k0820@gmail.com).
 
 ---
 
