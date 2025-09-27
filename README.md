@@ -1,31 +1,31 @@
-# 🤖 InterviewAI - Smart Technical Interview Platform
+#  InterviewAI - Smart Technical Interview Platform
 
 A modern, AI-powered technical interview platform built with React, TypeScript, and Tailwind CSS. This application provides an end-to-end interview experience for both candidates and interviewers with intelligent question generation and automated scoring.
 
 ![InterviewAI Demo](https://img.shields.io/badge/Status-Active-brightgreen) ![React](https://img.shields.io/badge/React-18.x-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.x-06B6D4)
 
-## ✨ Features
+##  Features
 
-### 🎯 **For Candidates**
+###  **For Candidates**
 - **Resume Upload**: Intelligent parsing of PDF and DOCX files
 - **Personalized Questions**: AI-generated questions based on resume content
 - **Timed Responses**: Progressive difficulty with appropriate time limits
 - **Real-time Feedback**: Instant scoring and performance insights
 - **Session Management**: Auto-save progress and resume capability
 
-### 📊 **For Interviewers**
+###  **For Interviewers**
 - **Candidate Dashboard**: Comprehensive overview of all interviews
 - **Detailed Analytics**: Performance metrics and AI assessments
 - **Search & Filter**: Advanced candidate filtering and sorting
 - **Interview History**: Complete chat logs and response analysis
 
-### 🎨 **Modern UI/UX**
+###  **Modern UI/UX**
 - **Professional Design**: Clean, modern interface with smooth animations
 - **Responsive Layout**: Optimized for desktop, tablet, and mobile
 - **Accessibility**: WCAG compliant with keyboard navigation support
 - **Dark Mode Ready**: Extensible design system for theme variations
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **Frontend**: React 18, TypeScript, Vite
 - **State Management**: Redux Toolkit with Redux Persist
@@ -34,7 +34,7 @@ A modern, AI-powered technical interview platform built with React, TypeScript, 
 - **Document Processing**: PDF.js, Mammoth.js
 - **Development**: ESLint, PostCSS
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js 18+ 
@@ -68,7 +68,7 @@ npm run build
 npm run preview
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -100,7 +100,7 @@ src/
     └── index.css          # Global styles and Tailwind imports
 ```
 
-## 🎨 Design System
+##  Design System
 
 The application uses a comprehensive design system built on Tailwind CSS:
 
@@ -110,7 +110,7 @@ The application uses a comprehensive design system built on Tailwind CSS:
 - **Animations**: Smooth transitions and micro-interactions
 - **Shadows**: Layered depth system for visual hierarchy
 
-## 🔧 Configuration
+##  Configuration
 
 ### Tailwind CSS
 The design system is configured in `tailwind.config.js` with:
@@ -126,7 +126,7 @@ Type-safe development with strict TypeScript configuration for:
 - API responses
 - Utility functions
 
-## 📈 Features in Detail
+##  Features in Detail
 
 ### Resume Processing
 - Supports PDF and DOCX formats
@@ -146,7 +146,7 @@ Type-safe development with strict TypeScript configuration for:
 - Difficulty-adjusted scoring
 - Comprehensive feedback generation
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -154,11 +154,11 @@ Type-safe development with strict TypeScript configuration for:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [React](https://reactjs.org/) - Frontend framework
 - [Tailwind CSS](https://tailwindcss.com/) - Styling framework
@@ -166,10 +166,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [PDF.js](https://mozilla.github.io/pdf.js/) - PDF processing
 - [Mammoth.js](https://www.npmjs.com/package/mammoth) - DOCX processing
 
-## 📞 Support
+##  Support
 
-If you have any questions or need help, please open an issue or contact [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or need help, please open an issue or contact tarakreddy.k0820@gmail.com
 
 ---
 
-**Made with ❤️ by [Your Name](https://github.com/yourusername)**
+**Made with  by [Tarak Reddy Kothabalireddygari](https://github.com/tarak510605)**
